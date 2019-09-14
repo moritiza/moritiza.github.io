@@ -91,6 +91,7 @@ code {
   background: #40babd;
   border: 1px solid #40babd;
   color: #fff !important;
+  padding: 10px 30px 10px 30px;
 }
 
 .btn-primary:hover, .btn-primary:focus, .btn-primary:active, .btn-primary.active, .btn-primary.hover, a.btn-primary:hover, a.btn-primary:focus, a.btn-primary:active, a.btn-primary.active, a.btn-primary.hover {
@@ -1273,7 +1274,7 @@ select {
 
 .cards-section {
   /*padding: 60px 0;*/
-  padding-top: 80px;
+  padding-top: 70px;
   padding-right: 0;
   padding-bottom: 25px;
   padding-left: 0;
